@@ -1,9 +1,27 @@
 p {
   color: black;
-  font-size: 13px
+  font-size: 1rem
 }
 
 body {
   background-color: #d8d8d8;
-  padding: 20px 20px
+  padding: 20px 20px;
 }
+
+
+aside, article{	
+	display: inline-block;
+	vertical-align: bottom;
+	width: 45%;
+	text-align: left	
+}
+aside {
+	width: 15%
+}
+
+
+li{	
+	list-style: none;	
+}
+
+
